@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik Gartz</h1>
 - 🌱 I’m currently learning **three.js and node.js**
+- 
 - 📫 How to reach me **gartzdominik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
