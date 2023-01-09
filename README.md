@@ -1,8 +1,3 @@
+<h1 style="margin: 0;">🪐 Hi traveler, welcome to my codespace</h1>
+<img src="https://68.media.tumblr.com/5d9d44687164a666bb7e344054a9901d/tumblr_nsy6r46nFd1tz85h4o1_500.gif" style="width: 700px; heigth: 550px; margin: 0;"> 
 
-<img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/icon.gif" style="width: 475px; display: block;">
-<h1 style="margin: 0; display:inline;">🪐Hi unknown, welcome to my codespace!</h1>
-<p>sdfsdfsd</p>
-<h2>🖥️ Take a look at my Techstack:</h2>
-<div style ="display: flex; background-color: red; border-radius: 10px;">
-	<img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/mongodb-icon.svg" style="height:30px; width:30px;">
-</div>
