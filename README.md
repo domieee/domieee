@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Dominik Gartz</h1>
 - 🌱 I’m currently learning **three.js and node.js**
 
