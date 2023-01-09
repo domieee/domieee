@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominik Gartz</h1>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F41%2F7e%2Fbe%2F417ebee986aec41629278b1e04cfbfe9.gif&f=1&nofb=1&ipt=11353cb4fab5eb69749d7473a18b2c01c09a8b89f1183f972e7a871f905506a5&ipo=images">
+<h1 align="center">👋 Hi, I'm Dominik Gartz</h1>
 - 🌱 I’m currently learning **three.js and node.js**
 
 - 📫 How to reach me **gartzdominik@gmail.com**
