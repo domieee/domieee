@@ -14,5 +14,8 @@
  <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
  <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
 </div>
+<h3>Creative work</h3>
+ <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
+ <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
 <h2>Get in contact</h2>
 <h2></h2>
