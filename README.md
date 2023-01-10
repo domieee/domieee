@@ -6,7 +6,7 @@
 <strong style="font-size: 22px;">What i did & what i do</strong><br \>
 
 <p><strong>></strong> Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.</p>
-<h2>The tech stack that keeps the environment running 💻</h2>
+<h2 align="center">The tech stack that keeps the environment running 💻</h2>
 <strong>Development</strong>
 <div style="display: flex;">
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
