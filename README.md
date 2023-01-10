@@ -8,11 +8,11 @@
 <h2>The tech stack that keeps the environment running 💻</h2>
 <h3>Development</h3>
 <div style="display: flex;">
- <img style="width: 64px; height: 64px; margin-left: 25px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
- <img style="width: 64px; height: 64px; margin-left: 25px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
- <img style="width: 64px; height: 64px; margin-left: 25px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg">
- <img style="width: 64px; height: 64px; margin-left: 25px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
- <img style="width: 64px; height: 64px; margin-left: 25px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
+ <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
+ <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
+ <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/react.svg">
+ <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
+ <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
 </div>
 <h2>Get in contact</h2>
 <h2></h2>
