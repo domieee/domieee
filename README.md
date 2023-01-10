@@ -9,6 +9,7 @@
 <h2>The tech stack that keeps the environment running 💻</h2>
  </div>
 <strong>Development</strong>
+<div style="display: flex;">
 <div style="display: flex;"><br \>
  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
@@ -22,5 +23,6 @@
  <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
  <img style="width: 48px; height: 48px;" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/figma.svg">
  </div>
+  </div>
 <h2>Get in contact</h2>
 <h2></h2>
