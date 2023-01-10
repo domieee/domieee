@@ -8,7 +8,7 @@
 <p>> Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.</p>
 <h2>The tech stack that keeps the environment running 💻</h2>
  </div>
-<h3>Development</h3>
+<strong>Development</strong>
 <div style="display: flex;">
  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
@@ -17,7 +17,7 @@
  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
 </div>
 <div style="display: flex;">
-<h3>Creative work</h3>
+<strong>Creative work</strong>
  <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
  <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
  <img style="width: 48px; height: 48px;" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/figma.svg">
