@@ -8,8 +8,8 @@
 <h2>The tech stack that keeps the environment running 💻</h2>
 <h3>Development</h3>
 <div style="display: flex;">
-<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
-<img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
+<img style="width: 64px; height: 64px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
+<img style="width: 64px; height: 64px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/css-3.svg">
  </div>
 <h2>Get in contact</h2>
 <h2></h2>
