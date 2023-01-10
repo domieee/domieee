@@ -17,7 +17,7 @@
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
  </div><br \>
-<strong>Creative work</strong><br \>
+<strong align="center">Creative work</strong><br \>
 <div align="center" style="display: flex; background-color: white;">
  <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
  <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
