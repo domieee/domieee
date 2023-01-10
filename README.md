@@ -14,8 +14,9 @@
  <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
  <img style="width: 64px; height: 64px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
 </div>
-<h3>Creative work</h3>
- <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
- <img src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
+<h3 style="display: flex;">Creative work</h3>
+ <img style="width: 64px; height: 64px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
+ <img style="width: 64px; height: 64px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
+ <img style="width: 64px; height: 64px;" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/figma.svg">
 <h2>Get in contact</h2>
 <h2></h2>
