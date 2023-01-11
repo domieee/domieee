@@ -22,6 +22,7 @@
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/nodejs-icon.svg">
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mongodb-icon.svg">
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/linux-tux.svg">
+  <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/bash1.svg">
  </div><br \>
 <strong>Creative work</strong>
 <div style="display: flex;">
