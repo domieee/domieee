@@ -13,7 +13,7 @@
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-<h2 align="center">The tech stack that keeps the environment running 💻</h2>
+<h2>The tech stack that keeps the environment running 💻</h2>
 <strong>Development</strong>
 <div style="display: flex;">
   <img style="width: 48px; height: 48px; margin-left: 50px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg">
