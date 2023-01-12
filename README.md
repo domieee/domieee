@@ -34,7 +34,7 @@
  <img style="width: 48px; height: 48px;" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/figma.svg">
  </div>
  
- ![](https://raw.githubusercontent.com/domieee/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <h2>Get in contact</h2>
 
