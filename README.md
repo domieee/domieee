@@ -7,28 +7,6 @@
 
 <p><strong>></strong> Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.</p>
 
-|       2020     |             2021              |             2022            |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-<h2>The tech stack that keeps the environment running 💻</h2>
-<strong>Development</strong>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
- </div><br \>
-<strong>Creative work</strong>
-<div style="display: flex;">
- <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-photoshop.svg">
- <img style="width: 48px; height: 48px;" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/adobe-illustrator.svg">
- <img style="width: 48px; height: 48px;" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/figma.svg">
- </div>
- 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<h2>Get in contact</h2>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=The%20tech%20stack%20that%20keeps%20the%20environment%20running%20%F0%9F%92%BB&align=center&showBorder=false&lineHeight=19&lineCount=1&theme=tokyonight&gap=6&line1=HTML5,HTML5,d20005;Sass,SCSS,acadb0;react,react,80ffff;Node.js,Node.js,e8af71;MongoDB,mongodb,23ba1b;" alt="My Tech Stack" />
 
 
