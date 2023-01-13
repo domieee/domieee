@@ -1,5 +1,5 @@
 <h1 align="center" style="margin: 0;">Hi traveler, welcome to my codespace! 🪐</h1>
-<section style="width="300px;">
+<section style="width=300px;">
   <p>I am a junior fullstack web developer based on Kassel, Germany. Currently I am doing a bootcamp at super(code), Düsseldorf.</p>
 </section>
 <img align="right" src="https://68.media.tumblr.com/5d9d44687164a666bb7e344054a9901d/tumblr_nsy6r46nFd1tz85h4o1_500.gif" style="width: 400px; heigth: auto"> 
