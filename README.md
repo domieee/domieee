@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: 0;">Hi traveler, welcome to my codespace! 🪐</h1>
+<h1 style="margin: 0;">Hi traveler, welcome to my codespace! 🪐</h1>
 
 <p>I'm a prospective junior fullstack web developer based in Kassel, Germany.<br \> Currently I am doing a bootcamp at super(code), Düsseldorf.</p>
 
