@@ -25,7 +25,7 @@
 <br>
 
 <div align='center'>
-  <img width='150px' height='150px'  align='center' src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
+  <img width='200px' height='200px'  align='center' src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
 </div>
 
 <br/>
