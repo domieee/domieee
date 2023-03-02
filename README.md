@@ -1,10 +1,8 @@
 <h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
 
 <div display='flex'>
-<img src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
-  
-<p>I'm a approaching fullstack dev based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
-
+  <img src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
+  <p>I'm a approaching fullstack dev based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 </div>
 
 
