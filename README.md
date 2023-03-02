@@ -33,6 +33,7 @@
 
 <div align='center'>
   <img align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
+  https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 </div>
 
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white Figma
