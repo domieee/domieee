@@ -17,11 +17,10 @@
   </div>
 </div>
 
-<h2 alig='center'>Tools For Production</h2>
+<h2 align='center'>Tools For Production</h2>
 <div align='center'>
-  <div>
-    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
-  </div>
+   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 </div>
 <br>
 
