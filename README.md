@@ -20,7 +20,7 @@
 <h2 align='center'>Tools For Production</h2>
 <div align='center'>
    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
-   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+   <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
 </div>
 <br>
 
