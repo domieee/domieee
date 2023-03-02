@@ -34,7 +34,6 @@
 
 <div align='center'>
   <img align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
-  https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 </div>
 
 
