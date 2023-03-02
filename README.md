@@ -21,6 +21,7 @@
 <div>
   <div>
     <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+    <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
   </div>
 </div>
 <br>
@@ -36,8 +37,6 @@
   https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 </div>
 
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white Figma
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=domieee&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
