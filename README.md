@@ -31,9 +31,12 @@
 
 <br/>
 
-
 <div align='center'>
   <img align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
 </div>
+
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white Figma
+
+<img src="https://komarev.com/ghpvc/?username=domieee&style=flat-square&color=blue" alt=""/>
 
 
