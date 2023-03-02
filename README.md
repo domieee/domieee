@@ -1,8 +1,8 @@
-<h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
-<p align='center' font-weight='bold'>I'm a approaching fullstack dev based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
+<h1 >Hi traveler, welcome to my codespace! 🪐</h1>
+<p font-weight='bold'>I'm a approaching fullstack dev based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 
-<h2 align='center'>Development</h2>
-<div align='center'>
+<h2>Development</h2>
+<div>
   
   <div display='flex'>  
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
