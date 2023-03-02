@@ -1,6 +1,6 @@
 <h1 style="margin: 0;">Hi traveler, welcome to my codespace! 🪐</h1>
 
-<p>I'm a prospective junior fullstack web developer based in Kassel, Germany.<br \> Currently I am doing a bootcamp at super(code), Düsseldorf.</p>
+<p>I'm a prospective junior fullstack web developer based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 
 <h2>Development</h2>
 <div diplay='flex'>
