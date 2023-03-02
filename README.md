@@ -2,7 +2,7 @@
 
 <p>I'm a prospective junior fullstack web developer based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 
-<h2>Development</h2>
+<h2 align='center'>Development</h2>
 <div align='center'>
   
   <div display='flex'>  
