@@ -1,7 +1,7 @@
 <h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
 <p align='center'>I'm a approaching fullstack developer based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 
-<h2 align='right'>Development</h2>
+<h2 align='center'>Development</h2>
 <div align='center'>
   <div display='flex'>  
     <img border-radius='5px' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -17,8 +17,8 @@
   </div>
 </div>
 
-<h2>Tools For Production</h2>
-<div>
+<h2 align='center'>Tools For Production</h2>
+<div align='center'>
   <div>
     <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
     <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
