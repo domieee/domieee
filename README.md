@@ -24,11 +24,13 @@
 </div>
 <br>
 
+<h2></h2>
+
 <div align='center'>
   <img width='200px' height='200px'  align='center' src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
 </div>
 
-<br/><h2></h2>
+<br/>
 
 <div align='center'>
   <img align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
