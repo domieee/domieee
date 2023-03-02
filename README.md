@@ -30,9 +30,7 @@
 </div>
 
 <br/>
-<div align='center'>
-**asdasdas**
-</div>
+
 
 <div align='center'>
   <img align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
