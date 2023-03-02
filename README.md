@@ -23,6 +23,6 @@
     <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
   </div>
 </div>
-
+<br>
 <img src='https://media2.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47hp3r0usluo6784r4j67supodc9q449xjrntml6by&rid=giphy.gif&ct=g'>
 
