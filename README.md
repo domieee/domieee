@@ -1,5 +1,11 @@
 <h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
 
+<div>
+
+<img src='https://www.reddit.com/r/CatGifs/comments/48sql9/hacker_cat_at_it_again_taking_over_the_webs/'>
+</div>
+
+
 <p align='center'>I'm a approaching fullstack dev based in Kassel, Germany.<br \> Currently doing a bootcamp at super(code), Düsseldorf.</p>
 
 <h2 align='center'>Development</h2>
