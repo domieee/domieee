@@ -31,7 +31,7 @@
 <br/>
 
 <div align='center'>
-  <img width='200px' align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
+  <img width='100px' align='center' src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
 </div>
 
 
