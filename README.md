@@ -1,10 +1,6 @@
 <h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
 <p align='center'>I'm a approaching fullstack developer based in Kassel, Germany.<br \> Currently doing a bootcamp @ SuperCode, Düsseldorf.</p>
 
-````
-asdasdasdasda
-````
-
 <h2 align='center'>Development</h2>
 <div align='center'>
   <div display='flex'>  
