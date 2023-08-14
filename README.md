@@ -1,5 +1,5 @@
 <h1 align='center'>Hi traveler, welcome to my codespace! 🪐</h1>
-<p align='center'>I'm a approaching fullstack developer based in Kassel, Germany.</p>
+<p align='center'>I'm a fullstack developer based in Kassel, Germany.</p>
 
 <h2 align='center'>Development</h2>
 <div align='center'>
